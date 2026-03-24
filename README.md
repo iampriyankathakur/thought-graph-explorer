@@ -52,7 +52,7 @@ Persistent memory graph
 LLM-based reasoning synthesis
 Web interface
 
-# 📦 requirements.txt
+## 📦 requirements.txt
 spacy
 networkx
 matplotlib
@@ -63,7 +63,7 @@ keybert
 
 ---
 
-# 🚫 .gitignore
+### 🚫 .gitignore
 
 pycache/
 *.pyc
@@ -71,7 +71,7 @@ pycache/
 
 ---
 
-# 📄 data/sample.txt
+## 📄 data/sample.txt
 
 ```text
 Climate change affects agriculture and food production. 
@@ -80,4 +80,3 @@ Supply shortages increase prices and cause inflation.
 Inflation impacts economic stability and growth. 
 Economic instability affects employment and global markets.
 ```
-
